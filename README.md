@@ -6,7 +6,9 @@
 
 ## Demo
 
-Production: _ссылка появится после деплоя_
+Production: **https://cekh78.vercel.app**
+
+Репозиторий: https://github.com/romankolesnikov1392-jpg/cekh78
 
 ## Stack
 
